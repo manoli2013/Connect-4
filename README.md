@@ -12,7 +12,7 @@ Connect Four is a tic-tac-toe like game in which two players drop discs into a 7
 
 The game is developed according to the following scheme:
 
-![Activities](connect4.jpg)
+![Activities](Connect4.jpg)
 
 ## Installation
 
