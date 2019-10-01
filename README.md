@@ -25,8 +25,11 @@ The main features of the programming language included in this project:
 
 4. Game developing activities according to the following scheme:
 
+<center>
+
 ![Activities](Connect4.jpg)
 
+</center>
 ## To Do
 
 - Create board without html elements (through new Array() and link through ID's).
