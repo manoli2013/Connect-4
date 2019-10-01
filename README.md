@@ -4,10 +4,12 @@
 
 Connect Four is a tic-tac-toe like game in which two players drop discs into a 7x6 board. The first player to get four in a row (either vertically, horizontally, or diagonally) wins.
 
+<center>
 
 ![Gif-Connect4](https://media2.giphy.com/media/Zey3Av3PpHISA/200.webp?cid=790b76116ef6ebef6428d453f1f0b65f56c7d21e141db45b&rid=200.webp)
 
 
+</center>
 
 ## Functional Description
 
